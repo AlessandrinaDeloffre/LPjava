@@ -11,7 +11,7 @@ public class Player extends Entity{
 	protected int gold;
 
 	
-	
+	//coucou le commentaire
 	
 	public Player(String name, int pv) {
 		super(name, pv);
